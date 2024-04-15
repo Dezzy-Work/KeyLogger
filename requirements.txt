@@ -1,0 +1,10 @@
+keyboard==0.13.5
+psutil==5.9.8
+PyAudio==0.2.14
+PyGetWindow==0.0.9
+pynput==1.7.6
+pyperclip==1.8.2
+PyRect==0.2.0
+pywin32==306
+schedule==1.2.1
+six==1.16.0
